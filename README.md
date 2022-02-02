@@ -1,4 +1,4 @@
-# Amazon POM
+# Student Average
 
 Objective: Gathering students records as csv files, import them into excel for finding average and then export those as back to csv with average column
 
